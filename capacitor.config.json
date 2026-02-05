@@ -1,0 +1,10 @@
+{
+  "appId": "com.rxtritik.mediaflow",
+  "appName": "MediaFlow Pro",
+  "webDir": "www",
+  "server": {
+    "url": "https://yt-down-dtdw.onrender.com",
+    "cleartext": true
+  }
+}
+

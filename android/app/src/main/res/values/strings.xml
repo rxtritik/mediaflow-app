@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mediaflow Pro</string>
+    <string name="title_activity_main">Mediaflow Pro</string>
+    <string name="package_name">com.rxtritik.mediaflow</string>
+    <string name="custom_url_scheme">com.rxtritik.mediaflow</string>
+</resources>
